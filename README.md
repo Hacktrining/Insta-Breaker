@@ -22,7 +22,7 @@ pkg update
 pkg install python -y
 ```
 ```bash
-git clone https://github.com/GH05T-HUNTER5/insta-breaker
+git clone https://github.com/Hack_Training/insta-breaker
 ```
 ```bash
 cd insta-breaker
@@ -45,7 +45,7 @@ If this repository gets 5k likes, we will add more features such as:
 
 ## Follow Us
 
-Follow my [GitHub account](https://github.com/GH05T-HUNTER5) for updates and more projects.
+Follow my [GitHub account](https://github.com/Hack_Training) for updates and more projects.
 
 ## Disclaimer
 
@@ -55,5 +55,5 @@ Follow my [GitHub account](https://github.com/GH05T-HUNTER5) for updates and mor
 
 ## Developer
 
-- **GH05T HUNTER5**
+- **Hack_Training**
 - Version: 7.01
