@@ -22,10 +22,10 @@ pkg update
 pkg install python -y
 ```
 ```bash
-git clone https://github.com/Hack_Training/insta-breaker
+git clone https://github.com/Hacktrining/Insta-Breaker.git
 ```
 ```bash
-cd insta-breaker
+cd Insta-Breaker
 ```
 ```bash
 bash install.sh
